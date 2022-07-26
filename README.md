@@ -1,7 +1,6 @@
 # Sankara Ltd Bookkeeping App
 
-This project was created to ease the manual bookkeeping process.
-
+This project was created to explore the concept of React Routing while trying create a bookkeeping too
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
