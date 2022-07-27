@@ -1,6 +1,11 @@
 # Sankara Ltd Bookkeeping App
 
+<<<<<<< HEAD
 This project was created to explore the concept of React Routing while trying create a bookkeeping too
+=======
+This project was created to explore the concept of React Routing while trying create a bookkeeping tool
+
+>>>>>>> refs/remotes/origin/main
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
